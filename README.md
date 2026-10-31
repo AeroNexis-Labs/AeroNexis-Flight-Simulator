@@ -61,27 +61,27 @@ Screenshots will be added as playable features become available.
 
 Our development will progress through several milestones.
 
-- [ ] **Phase 1 — Foundation**
-  - [ ] Set up the Godot project architecture.
-  - [ ] Create the initial aircraft model and flight scene.
-  - [ ] Implement basic flight physics.
-  - [ ] Add a runway and a chase camera.
+- [x] **Phase 1 — Foundation**
+  - [x] <s>Set up the Godot project architecture.</s>
+  - [x] <s>Create the initial aircraft model and flight scene.</s>
+  - [x] <s>Implement basic flight physics.</s>
+  - [x] <s>Add a runway and a chase camera.</s>
 
 - [ ] **Phase 2 — Flight Experience**
-  - [ ] Implement pitch, roll, yaw, and throttle controls.
-  - [ ] Add takeoff, landing, braking, and landing gear.
-  - [ ] Create a basic cockpit and flight instruments.
-  - [ ] Add keyboard and touchscreen controls as appropriate.
+  - [x] <s>Implement pitch, roll, yaw, and throttle controls.</s>
+  - [ ] <s>Add takeoff,</s> landing, <s>braking, and landing gear.</s>
+  - [x] <s>Create a basic cockpit and flight instruments.</s>
+  - [x] <s>Add keyboard and touchscreen controls as appropriate.</s>
 
 - [ ] **Phase 3 — World and Airports**
-  - [ ] Create detailed airport environments.
+  - [x] <s>Create detailed airport environments.</s>
   - [ ] Add terrain, sky, clouds, and atmospheric lighting.
   - [ ] Improve aircraft models and exterior visuals.
   - [ ] Add additional camera views.
 
 - [ ] **Phase 4 — Advanced Simulation**
   - [ ] Improve aerodynamic modeling and stall behavior.
-  - [ ] Introduce navigation and flight planning.
+  - [x] <s>Introduce navigation and flight planning.</s>
   - [ ] Add autopilot and more advanced cockpit systems.
   - [ ] Explore dynamic weather and additional aircraft.
 
